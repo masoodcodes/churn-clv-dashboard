@@ -1,0 +1,8 @@
+@'
+pandas
+numpy
+scikit-learn
+plotly
+streamlit
+joblib
+'@ | Set-Content requirements.txt -Encoding utf8
