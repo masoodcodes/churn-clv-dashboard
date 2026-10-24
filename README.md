@@ -2,7 +2,7 @@
 
 An end-to-end analytics project that predicts which telecom customers are likely to leave, estimates how much each customer is worth, and simulates the profit impact of retention campaigns.
 
-**Live demo:** _add Streamlit link here_
+**Live demo:** [_add Streamlit link here_](https://masood-churn-clv.streamlit.app)
 
 ![Simulator](reports/screenshots/simulator.png)
 
